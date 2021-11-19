@@ -1,2 +1,2 @@
 # NemetonPlugin
-Plugin Minecraft sur les commandes généraux du serveur
+Plugin Minecraft sur les commandes générales du serveur
